@@ -1,4 +1,4 @@
-**GitHub’s First Women In Public Speaking Workshop <br>
+**GitHub’s First Public Speaking Workshop For Women <br>
 At GitHub HQ in San Francisco, CA <br>
 Saturday, February 22nd, from 11:00am-4:00pm <br>
 (food, beverages, moral support and also plenty of fun provided).**
