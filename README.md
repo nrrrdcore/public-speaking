@@ -5,13 +5,13 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 
 **Keynotes**:
 
-+ Chris Wanstrath aka Defunkt, Founder & CEO of GitHub, ridiculously good speaker and equally excellent person.
-+ Diana Kimball, Expert Novice, bright soul, and Harvard MBA set out on making the world a better place.
++ [Chris Wanstrath](https://twitter.com/defunkt) aka Defunkt, Founder & CEO of GitHub, ridiculously good speaker and equally excellent person.
++ [Diana Kimball](https://twitter.com/dianakimball), Expert Novice, bright soul, and Harvard MBA set out on making the world a better place.
 
 **Additional Mentors (more to come!)**:
 
-+ Julie Ann Horvath, Passion Projects Founder, Developer, and Designer of Websites and Also Slides
-+ Maitri Mehta, Writer at Bustle, Master Poet, and Avid Public Speaker
++ [Julie Ann Horvath](https://twitter.com/nrrrdcore), Passion Projects Founder, Developer, and Designer of Websites and Also Slides
++ [Maitri Mehta](https://twitter.com/mai_treat), Writer at Bustle, Master Poet, and Avid Public Speaker
 
 **Working/Hacking in small groups with our mentors**:
 
