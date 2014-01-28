@@ -12,6 +12,8 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 
 + [Julie Ann Horvath](https://twitter.com/nrrrdcore), Passion Projects Founder, Developer, and Designer of Websites and Also Slides
 + [Maitri Mehta](https://twitter.com/mai_treat), Writer at Bustle, Master Poet, and Avid Public Speaker
++ [Mina Markham](https://twitter.com/MinaMarkham), Badass Lady Dev, Girl Develop It Founder/Instructor, Generally Rad Person
++ [Ana Hevesi](https://twitter.com/anoemi), Community Developer at StackExchange, Conference Organizer, Brilliant Wordsmith, So Damn Well Spoken
 
 **Working/Hacking in small groups with our mentors**:
 
