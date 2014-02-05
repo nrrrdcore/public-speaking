@@ -17,6 +17,7 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + [Garann Means](https://twitter.com/garannm), JavaScript Developer, Incredible Writer, Austite, and Beyond Powerful Speaker
 + [Andi Galpern](https://twitter.com/andigalpern), Expert Web Designer, Rockin Musician, and Passionate Tech Educator
 + [Alexis Finch](https://twitter.com/agentFin), Sketch Artist, Has Seen More Conference Talks Than Ted Himself, Badass Women's Advocate
++ [Jessica Dillon](https://twitter.com/jessicard), Lover, Fighter, Javascript Writer
 
 **Working/Hacking in small groups with our mentors**:
 
