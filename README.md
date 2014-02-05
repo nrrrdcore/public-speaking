@@ -18,6 +18,7 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + [Andi Galpern](https://twitter.com/andigalpern), Expert Web Designer, Rockin Musician, and Passionate Tech Educator
 + [Alexis Finch](https://twitter.com/agentFin), Sketch Artist, Has Seen More Conference Talks Than Ted Himself, Badass Women's Advocate
 + [Jessica Dillon](https://twitter.com/jessicard), Lover, Fighter, Javascript Writer
++ [Jen Myers](https://twitter.com/antiheroine), Former Passion Projects Speaker, Dev Bootcamp Instructor, Fantastic Keynoter, and Starter of Brilliant Things
 
 **Working/Hacking in small groups with our mentors**:
 
