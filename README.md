@@ -21,7 +21,7 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + [Jen Myers](https://twitter.com/antiheroine), Former Passion Projects Speaker, Dev Bootcamp Instructor, Fantastic Keynoter, and Starter of Brilliant Things
 + [Luz Bratcher](https://twitter.com/luzbonita), Helvetica-loving UX designer at Design Commission. Event admin for Seattle Creative Mornings
 + [Divya Martin](https://twitter.com/divya), Crazy Good Speaker, Coder, and Armchair Anarchist
-+ [Tatiana Grace](https://twitter.com/tatiana), VP, Music at Nielsen, Formerly Music @Twitter, Disney
++ [Tatiana Grace](https://twitter.com/tatiana), VP, Music at Nielsen, Formerly Music at Twitter, Disney
 + [Angelina Fabbro](https://twitter.com/angelinamagnum), Engineer/Developer and Developer Advocate at Mozilla. Writes code/writes words about code/speaks about code
 + [Jackie Balzer](https://twitter.com/jackiebackwards), Writes CSS like it's her job (it is), Leads an army of CSS badasses at Behance
 + [Ash Huang](https://twitter.com/ashsmash), Designer at Pinterest, Really Very Handy with Gifs IRL
