@@ -1,4 +1,4 @@
-##Speaking Resource##
+##Speaking Resources##
 
 A crowdsourced list of resources for women who want to get into public speaking.
 
