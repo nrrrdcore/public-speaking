@@ -19,3 +19,4 @@ A crowdsourced list of resources for women who want to get into public speaking.
 + [Putting An End To Conferences Dominated By White Men](http://blogs.hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels/) — Nuff said by Sarah Millstein.
 + [Why More Women Conference Speakers?](http://www.ultrasaurus.com/2014/01/women-conference-speakers/) — Sarah Allen on her search for role models and the quest to make women more visible within the Ruby and tech communities.
 + [Increasing Diversity at Your Conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference) - Based on a series of round-table discussions, Ashe Dryden highlights different kinds of diversity and provides suggestions for conference organizers.
++ [She Source](http://www.shesource.org/) - an online braintrust of female experts on diverse topics designed to serve journalists, producers and bookers who need female guests and sources.
