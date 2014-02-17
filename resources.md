@@ -12,7 +12,7 @@ A crowdsourced list of resources for women who want to get into public speaking.
 
 ###For Conference Organizers:###
 
-+ [Putting An End To Conferences Dominated By White Men](http://blogs.hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels/) — Nuff said by Sarah Millstein.
-+ [Beating The Odds: How We Got 25% Women Speakers At JSConfEu](http://2012.jsconf.eu/2012/09/17/beating-the-odds-how-we-got-25-percent-women-speakers.html) — How JSConfEu got more women speakers at their conference in 2012.
 + [Ask And They Will Come](http://blog.eurucamp.org/2013/05/27/end-of-eurucamp-cfp) — On encouraging those people who are missing to feel invited and show up.
++ [Beating The Odds: How We Got 25% Women Speakers At JSConfEu](http://2012.jsconf.eu/2012/09/17/beating-the-odds-how-we-got-25-percent-women-speakers.html) — How JSConfEu got more women speakers at their conference in 2012.
++ [Putting An End To Conferences Dominated By White Men](http://blogs.hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels/) — Nuff said by Sarah Millstein.
 + [Why More Women Conference Speakers?](http://www.ultrasaurus.com/2014/01/women-conference-speakers/) — Sarah Allen on her search for role models and the quest to make women more visible within the Ruby and tech communities.
