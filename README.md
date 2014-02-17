@@ -7,6 +7,9 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 
 **Meet Our Keynote Speakers**:
 
++ [Denise Jacobs](https://twitter.com/denisejacobs), Speaker, Author, Creativity Evangelist, Passionate Diversity Advocate
++ [Diana Kimball](https://twitter.com/dianakimball), Expert Novice, Bright Soul, and Harvard MBA Set Out on Making the World A Better Place
+
 **Our Awesome Mentors For The Day**:
 
 + [Ana Hevesi](https://twitter.com/anoemi), Community Developer at StackExchange, Conference Organizer, Brilliant Wordsmith, So Damn Well-Spoken
