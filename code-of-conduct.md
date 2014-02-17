@@ -1,4 +1,4 @@
-This public speaking workshop is a community cevent intended for networking and collaboration in the tech community.
+This public speaking workshop is a community event intended for networking and collaboration in the tech community.
 
 We value the participation of each member and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout all events hosted in the GitHub space.
 
