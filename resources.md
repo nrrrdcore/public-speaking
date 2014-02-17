@@ -9,6 +9,8 @@ A crowdsourced list of resources for women who want to get into public speaking.
 + [Ladies In Tech](http://ladiesintech.com/) — Articles and podcasts from women in public speaking.
 + [Speaking.io](http://speaking.io/) — Thoughts on public speaking by Zach Holman.
 + [We Are All Awesome](http://weareallaweso.me/) — Speaker resources and motivation for underrepresented would-be speakers.
++ [The Op Ed Project](http://www.theopedproject.org/) - workshops and mentorship across many cities and universities for using your voice in public
++ [The Women's Room](http://thewomensroom.org.uk/) - list yourself as a source
 
 ###For Conference Organizers:###
 
