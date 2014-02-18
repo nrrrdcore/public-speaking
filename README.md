@@ -40,7 +40,7 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 **Working/Hacking in small groups with our mentors**:
 
 + HOW TO: Choose a topic to speak about. (Alexis Finch)
-+ HOW TO: Find a conference or event to speak at.
++ HOW TO: Find a conference or event to speak at. (Garann Means)
 + HOW TO: Write a talk proposal and personal bio.
 + HOW TO: Write content for your talk.
 + HOW TO: Make your slides beautiful and also visible from a far. (Andi Galpern)
