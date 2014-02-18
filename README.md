@@ -45,7 +45,7 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + HOW TO: Write content for your talk.
 + HOW TO: Make your slides beautiful and also visible from a far. (Andi Galpern)
 + HOW TO  Ship it.
-+ HOW TO: Handle Q&A.
++ HOW TO: Handle Q&A. (Divya Manian)
 + HOW TO: Solicit feedback (before and after your talk).
 
 **Lightning talks: Be bold and also brave.**
