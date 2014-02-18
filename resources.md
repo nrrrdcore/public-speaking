@@ -11,6 +11,9 @@ A crowdsourced list of resources for women who want to get into public speaking.
 + [We Are All Awesome](http://weareallaweso.me/) — Speaker resources and motivation for underrepresented would-be speakers.
 + [The Op Ed Project](http://www.theopedproject.org/) - workshops and mentorship across many cities and universities for using your voice in public
 + [The Women's Room](http://thewomensroom.org.uk/) - list yourself as a source
++ [So Why Should I Speak Publicly?](http://cognition.happycog.com/article/so-why-should-I-speak-publicly) - Designer Jessica Ivins on how to get started.
++ [How to Give the Killer Tech Talk](http://writing.jan.io/2013/05/10/how-to-give-the-killer-tech-talk---a-pamphlet.html) - A clear outline from Jan Lehnardt.
++ [Neil Gaiman's Tips for Speaking in Public](http://neil-gaiman.tumblr.com/post/41653204206/6-tips-for-speaking-in-public) - "Mean it. Whatever you have to say, mean it."
 
 ###For Conference Organizers:###
 

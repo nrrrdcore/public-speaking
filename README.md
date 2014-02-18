@@ -44,8 +44,8 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + HOW TO: Write a talk proposal and personal bio.
 + HOW TO: Write content for your talk.
 + HOW TO: Make your slides beautiful and also visible from a far. (Andi Galpern)
-+ HOW TO  Ship it.
++ HOW TO:  Ship it.
 + HOW TO: Handle Q&A. (Divya Manian)
-+ HOW TO: Solicit feedback (before and after your talk).
++ HOW TO: Solicit feedback (before and after your talk). (Jen Myers)
 
 **Lightning talks: Be bold and also brave.**
