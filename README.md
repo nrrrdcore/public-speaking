@@ -34,7 +34,7 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + [Netta Marshall](https://twitter.com/nettatheninja), Lead Designer at Watsi, Formerly Rdio, Professional Ninja, Owner Of Best Website Footer On The Internet
 + [Raquel Vélez](https://twitter.com/rockbot), Hacker of The Web (node.js), Robotics Engineer, Polyglot, (Cal)Techer
 + [Sonya Green](https://twitter.com/sundaykofax), Chief Empathy Officer, Leads Support at GitHub
-+ [Tatiana Grace](https://twitter.com/tatiana), VP of Music at Nielsen, Formerly Music at Twitter and Disney
++ [Tatiana Simonian](https://twitter.com/tatiana), VP of Music at Nielsen, Formerly Music at Twitter and Disney
 + [Willo O'Brien](https://twitter.com/WilloLovesYou), Heart-Centered Entrepreneur, Speaker, Coach, Seriously Positive Person
 
 **Working/Hacking in small groups with our mentors**:
