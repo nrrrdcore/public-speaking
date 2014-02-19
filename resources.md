@@ -16,6 +16,7 @@ A crowdsourced list of resources for women who want to get into public speaking.
 + [Neil Gaiman's Tips for Speaking in Public](http://neil-gaiman.tumblr.com/post/41653204206/6-tips-for-speaking-in-public) - "Mean it. Whatever you have to say, mean it."
 + [On Speaking](http://bradfrostweb.com/blog/post/on-speaking/) - Brad Frost talks about talks.
 + [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/) - A guide to writing a compelling conference proposal, from someone who helps with speaker selections.
++ [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/The-Presentation-Secrets-Steve-Jobs/dp/0071636080) A book with 4.5 stars from 143 reviewers on Amazon, also in Audible and CD formats.
 
 ###For Conference Organizers:###
 
