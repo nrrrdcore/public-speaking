@@ -15,6 +15,7 @@ A crowdsourced list of resources for women who want to get into public speaking.
 + [How to Give the Killer Tech Talk](http://writing.jan.io/2013/05/10/how-to-give-the-killer-tech-talk---a-pamphlet.html) - A clear outline from Jan Lehnardt.
 + [Neil Gaiman's Tips for Speaking in Public](http://neil-gaiman.tumblr.com/post/41653204206/6-tips-for-speaking-in-public) - "Mean it. Whatever you have to say, mean it."
 + [On Speaking](http://bradfrostweb.com/blog/post/on-speaking/) - Brad Frost talks about talks.
++ [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/) - A guide to writing a compelling conference proposal, from someone who helps with speaker selections.
 
 ###For Conference Organizers:###
 
