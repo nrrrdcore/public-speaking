@@ -42,7 +42,7 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + HOW TO: Choose a topic to speak about. (Alexis Finch)
 + HOW TO: Find a conference or event to speak at. (Garann Means)
 + HOW TO: Write a talk proposal and personal bio. (Mina Markham)
-+ HOW TO: Write content for your talk.
++ HOW TO: Write content for your talk. (C J Silverio)
 + HOW TO: Make your slides beautiful and also visible from a far. (Andi Galpern)
 + HOW TO:  Ship it.
 + HOW TO: Handle Q&A. (Divya Manian)
