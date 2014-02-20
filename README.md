@@ -17,7 +17,7 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + [Alexis Finch](https://twitter.com/agentFin), Sketch Artist, Has Probably Seen More Conference Talks Than Ted Himself, Badass Women's Advocate
 + [Alice Lee](https://twitter.com/byalicelee), Designer and Illustrator at Dropbox, Super Talented Letterer, and Organizer of Origins
 + [Anita Sarkeesian](), Creator and Host of Feminist Frequency, Pop Culture Trope Expert , Probably the Most Hilarious Human Alive
-+ [Angelina Fabbro](https://twitter.com/angelinamagnum), Engineer/Developer and Developer Advocate at Mozilla. Writes Code/Writes Words About Code/Speaks About Code
++ [Angelina Fabbro](https://twitter.com/angelinamagnum), Average Developer with Above-average interest in helping you feel confident in your presentation skills
 + [Ash Huang](https://twitter.com/ashsmash), Designer at Pinterest, Really Quite Handy with Gifs IRL
 + [C J Silverio](https://twitter.com/ceejbot), Cats, Weightlifting, and Node.js, Not Necessarily In That Order.
 + [Divya Manian](https://twitter.com/divya), Crazy Talented Speaker, Avid Coder, and Armchair Anarchist
@@ -44,7 +44,7 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + HOW TO: Write a talk proposal and personal bio. (Mina Markham)
 + HOW TO: Write content for your talk. (C J Silverio)
 + HOW TO: Make your slides beautiful and also visible from a far. (Andi Galpern)
-+ HOW TO:  Ship it.
++ HOW TO: Ship it. (Angelina Fabbro)
 + HOW TO: Handle Q&A. (Divya Manian)
 + HOW TO: Solicit feedback (before and after your talk). (Jen Myers)
 

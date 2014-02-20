@@ -17,6 +17,8 @@ A crowdsourced list of resources for women who want to get into public speaking.
 + [On Speaking](http://bradfrostweb.com/blog/post/on-speaking/) - Brad Frost talks about talks.
 + [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/) - A guide to writing a compelling conference proposal, from someone who helps with speaker selections.
 + [Confessions of a Public Speaker](http://www.amazon.com/Confessions-Public-Speaker-English/dp/1449301959/tag=scottberkunco-20) - Funny and practical book full of advice on how to be an effective speaker and strategies to overcome fear of public speaking.
++ [How to Give a Great Ignite Talk](http://scottberkun.com/2009/how-to-give-a-great-ignite-talk/) - Great info for building a lightning-round size talk in a simple format.
++ [Q&A from Toughest Public Speaking Situations](http://scottberkun.com/2014/qa-from-toughest-public-speaking-situations/) - Helpful Q&A follow up from Scott Berkun's presentation on overcoming tough presentation situations.
 
 ###For Conference Organizers:###
 
