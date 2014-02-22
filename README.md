@@ -16,7 +16,7 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + [Andi Galpern](https://twitter.com/andigalpern), Expert Web Designer, Rockin' Musician, and Passionate Tech Educator
 + [Alexis Finch](https://twitter.com/agentFin), Sketch Artist, Has Probably Seen More Conference Talks Than Ted Himself, Badass Women's Advocate
 + [Alice Lee](https://twitter.com/byalicelee), Designer and Illustrator at Dropbox, Super Talented Letterer, and Organizer of Origins
-+ [Anita Sarkeesian](), Creator and Host of Feminist Frequency, Pop Culture Trope Expert , Probably the Most Hilarious Human Alive
++ [Anita Sarkeesian](https://twitter.com/femfreq), Creator and Host of Feminist Frequency, Pop Culture Trope Expert , Probably the Most Hilarious Human Alive
 + [Angelina Fabbro](https://twitter.com/angelinamagnum), Average Developer with Above-average interest in helping you feel confident in your presentation skills
 + [Ash Huang](https://twitter.com/ashsmash), Designer at Pinterest, Really Quite Handy with Gifs IRL
 + [C J Silverio](https://twitter.com/ceejbot), Cats, Weightlifting, and Node.js, Not Necessarily In That Order.
