@@ -29,10 +29,12 @@ Saturday, February 22nd, from 11:00am-4:00pm <br>
 + [Jessica Dillon](https://twitter.com/jessicard), Lover, Fighter, Javascript Writer
 + [Jessica Lord](https://twitter.com/jllord), Open Sourcerer, Former Code For America Fellow, Changing The Way The World Interacts With GitHub/Code/Javascript
 + [Julie Ann Horvath](https://twitter.com/nrrrdcore), Passion Projects Creator, Developer, and Designer of Websites and Also Slides
++ [Kelly Shearon](https://twitter.com/kcshearon), All Things Marketing and Content Strategy at GitHub, Could Write You Under A Table, Super Cool Mom
 + [Luz Bratcher](https://twitter.com/luzbonita), Helvetica-loving UX designer at Design Commission, Event Admin for Seattle Creative Mornings
 + [Mina Markham](https://twitter.com/MinaMarkham), Badass Lady Dev, Girl Develop It Founder/Instructor, Generally Rad Person
 + [Netta Marshall](https://twitter.com/nettatheninja), Lead Designer at Watsi, Formerly Rdio, Professional Ninja, Owner Of Best Website Footer On The Internet
 + [Raquel Vélez](https://twitter.com/rockbot), Hacker of The Web (node.js), Robotics Engineer, Polyglot, (Cal)Techer
++ [Sara Pyle](https://twitter.com/sarapyle1), Supportocat at GitHub, Amateur Shapeshifter, and Professional Superhero 
 + [Sonya Green](https://twitter.com/sundaykofax), Chief Empathy Officer, Leads Support at GitHub
 + [Tatiana Simonian](https://twitter.com/tatiana), VP of Music at Nielsen, Formerly Music at Twitter and Disney
 + [Willo O'Brien](https://twitter.com/WilloLovesYou), Heart-Centered Entrepreneur, Speaker, Coach, Seriously Positive Person
