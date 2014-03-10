@@ -3,8 +3,6 @@ At GitHub HQ in San Francisco, CA <br>
 Saturday, February 22nd, from 11:00am-4:00pm <br>
 (food, beverages, moral support and also plenty of fun provided)**
 
-**Keynotes**:
-
 **Meet Our Keynote Speakers**:
 
 + [Denise Jacobs](https://twitter.com/denisejacobs), Speaker, Author, Creativity Evangelist, Passionate Diversity Advocate
