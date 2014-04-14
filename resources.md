@@ -21,6 +21,7 @@ A crowdsourced list of resources for women who want to get into public speaking.
 + [Q&A from Toughest Public Speaking Situations](http://scottberkun.com/2014/qa-from-toughest-public-speaking-situations/) - Helpful Q&A follow up from Scott Berkun's presentation on overcoming tough presentation situations.
 + [Evangelizing Yourself](http://www.slideshare.net/whitneyhess/evangelizing-yourself-1184852) - "You can't change the world if no one knows your name." Whitney Hess on how to put yourself out there.
 + [Speak Up](http://jnoller.github.io/talk-mentorship/) - Great resources from Jesse Noller, who helps run Pycon. There's a mailing list associated with Speak Up that has been quiet lately, but is filled with awesome people who are always happy to answer questions about speaking.
++ [How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4) - A great talk on speaking by Ben Orenstein. Using a format of 5 lightning talks each of which is followed by an explanation of techniques used during them.
 
 ###For Conference Organizers:###
 
