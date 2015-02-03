@@ -4,7 +4,7 @@ A crowdsourced list of resources for women who want to get into public speaking.
 
 ###For Speakers:###
 
-+ [@callbackwomen](https://twitter.com/CallbackWomen) — follow CallbackWomen to find opportunities for professional programmers to speak at professional programming conferences. Website: [CallbackwWmen.com](http://callbackwomen.com)
++ [@callbackwomen](https://twitter.com/CallbackWomen) — follow CallbackWomen to find opportunities for professional programmers to speak at professional programming conferences. Website: [Callbackwomen.com](http://callbackwomen.com)
 + [9 Things Great Speakers Always Do](http://www.inc.com/jeff-haden/9-simple-things-great-speakers-always-do-mon.html) — An Inc. article by Jeff Hayden on the things great speakers do to make a real impact on their audiences.
 + [Ladies In Tech](http://ladiesintech.com/) — Articles and podcasts from women in public speaking.
 + [Speaking.io](http://speaking.io/) — Thoughts on public speaking by Zach Holman.
